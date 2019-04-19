@@ -29,3 +29,8 @@ TVWAR  20        3528  1977-04-04 00:09:42
 From the previous archive file.  Runs on ITS and draws on a Knight TV
 raster display.  The file containing bitmap graphics for the ships is
 missing.
+
+### SW.MAC
+
+Stanford AI Lab, 1971.  For the WAITS operating system; uses both
+PDP-6 and KA10 processors in parallel.  Draws on a III vector display.
