@@ -6,6 +6,8 @@ PDP-6 version from Peter Samsons's DECtape labelled "PSamsonIV".
 Another file on the same tape claims it's from 1968.  Draws on a Type
 340 display.
 
+![](https://user-images.githubusercontent.com/775050/56470329-32d74300-6445-11e9-862c-a43edfc6a5be.png)
+
 ### AR69 SPCWAR
 
 ITS archive file with several versions of SPCWAR.  They run standalone
@@ -23,6 +25,8 @@ SPCWAR 163      21765  1976-11-05 23:03:17
 SPCWAR PEOPLE      58  1977-07-10 18:27:27
 TVWAR  20        3528  1977-04-04 00:09:42
 ```
+
+![](https://user-images.githubusercontent.com/775050/56470332-37036080-6445-11e9-915b-519d581e1397.jpeg)
 
 ### TVWAR 20
 
