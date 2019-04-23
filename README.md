@@ -36,5 +36,6 @@ missing.
 
 ### SW.MAC
 
-Stanford AI Lab, 1971.  For the WAITS operating system; uses both
-PDP-6 and KA10 processors in parallel.  Draws on a III vector display.
+Stanford AI Lab, 1972 and 1978 versions.  For the WAITS operating
+system; uses both PDP-6 and KA10 processors in parallel.  Draws on a
+III vector display.
