@@ -40,6 +40,8 @@ Stanford AI Lab, 1972 and 1978 versions.  For the WAITS operating
 system; uses both PDP-6 and KA10 processors in parallel.  Draws on a
 III vector display.
 
+![](https://user-images.githubusercontent.com/775050/83620670-eccc3880-a58d-11ea-9911-0938941fdb6f.png)
+
 ### Information the LDS-1 version
 
 > LDS-1 Spacewar was amazing to watch, though it looked like it took quite a lot of practice to play.  There was a box with a row of toggle switches (maybe 16 or 18 of them?) and you used them to control the ships.  The ships could move around freely on the screen, iirc there was a star (sun) in the middle of the screen whose gravitational force was a game parameter, and other cool things like that.  I don't know of any modern video game anything like it.
